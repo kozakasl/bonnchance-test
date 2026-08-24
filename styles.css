@@ -24,3 +24,4 @@ body h1,body h2,body h3,.pillar b,.accordion summary{font-family:var(--sans);fon
 /* Heading typography */
 :root{--heading:"Shippori Mincho","Yu Mincho","YuMincho",serif}
 body h1,body h2,body h3,.pillar b,.accordion summary{font-family:var(--heading)!important;font-style:normal;font-weight:500;letter-spacing:.035em}
+.profile-name{font-family:var(--heading)!important;font-style:normal;font-weight:500;letter-spacing:.06em}
